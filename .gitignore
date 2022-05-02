@@ -1,0 +1,9 @@
+/tmp/checkpoints/*
+/tmp/models/*
+/tmp/tensorboard/*
+/dataset/images/*
+/dataset/transformed/*
+/dataset/annotations/*
+**/__pycache__
+**/.ipynb*
+**/.ipynb_checkpoints/*
